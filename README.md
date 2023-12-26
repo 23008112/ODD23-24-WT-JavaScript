@@ -104,7 +104,8 @@ After the loop ends, result will hold the factorial of n. Return result.
 ```
 
 # OUTPUT:9(b):
-![Alt text](<Screenshot 2023-12-26 133314.png>)
+![Screenshot 2023-12-26 133314](https://github.com/23008112/ODD23-24-WT-JavaScript/assets/138972470/edb1acc5-944c-4cb7-bf63-f8a87edcdb0b)
+
 
 # Ex-09(c)
 # AIM
@@ -160,7 +161,8 @@ function isPrime(num) {
 </html>
 ```
 # OUTPUT:9(c):
-![Alt text](<Screenshot 2023-12-26 133341.png>)
+![Screenshot 2023-12-26 133341](https://github.com/23008112/ODD23-24-WT-JavaScript/assets/138972470/9c7de25f-3795-4535-83d1-76ab4bfff404)
+
 
 # Ex-09(d)
 # AIM
@@ -236,10 +238,11 @@ function divide() {
 ```
 
 # OUTPUT:9(d):
-![Alt text](<Screenshot 2023-12-26 133416.png>)
-![Alt text](<Screenshot 2023-12-26 133433.png>)
-![Alt text](<Screenshot 2023-12-26 133444.png>)
-![Alt text](<Screenshot 2023-12-26 133456.png>)
+![Screenshot 2023-12-26 133416](https://github.com/23008112/ODD23-24-WT-JavaScript/assets/138972470/c6af2897-d6f3-4a12-ba4c-2793e8e25dbe)
+![Screenshot 2023-12-26 133433](https://github.com/23008112/ODD23-24-WT-JavaScript/assets/138972470/7fe17324-1cea-4860-b1f2-67a37ebb6608)
+![Screenshot 2023-12-26 133444](https://github.com/23008112/ODD23-24-WT-JavaScript/assets/138972470/53827a76-aff3-4345-b1b1-9cba583a504c)
+![Screenshot 2023-12-26 133456](https://github.com/23008112/ODD23-24-WT-JavaScript/assets/138972470/b5363ebf-2165-4dfe-a282-28688c4c67bb)
+
 # Ex-09(e)
 # AIM
 Design a simple text editor JavaScript application where we can manipulate the user input in different styles, edit the input, capitalize, and many string operations.
@@ -294,9 +297,9 @@ function reverse() {
 ```
 
 # OUTPUT:9(e):
-![Alt text](<Screenshot 2023-12-26 133624.png>)
-![Alt text](<Screenshot 2023-12-26 133639.png>)
-![Alt text](<Screenshot 2023-12-26 133649.png>)
+![Screenshot 2023-12-26 133624](https://github.com/23008112/ODD23-24-WT-JavaScript/assets/138972470/9f106d6f-28d5-4d74-9800-f7b5ef4737ec)
+![Screenshot 2023-12-26 133639](https://github.com/23008112/ODD23-24-WT-JavaScript/assets/138972470/02c5a08b-a96f-454c-82dc-2bdb67dcb063)
+![Screenshot 2023-12-26 133649](https://github.com/23008112/ODD23-24-WT-JavaScript/assets/138972470/5d670dd4-c3de-482a-87ab-9eb73f889ca3)
 
 # Ex-09(f)
 # AIM
@@ -360,7 +363,8 @@ function validateForm() {
 ```
 
 # OUTPUT:9(f):
-![Alt text](<Screenshot 2023-12-26 133739.png>)
+![Screenshot 2023-12-26 133739](https://github.com/23008112/ODD23-24-WT-JavaScript/assets/138972470/13fcd978-3af2-4457-b6a6-8d1d20625891)
+
 
 # RESULT:
 All java codes excecuted successfully.
