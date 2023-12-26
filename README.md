@@ -50,9 +50,10 @@ Display Bill: Print the calculated bill to the console.
 </body>
 </html>
 ```
-![Alt text](<Screenshot 2023-12-26 133145.png>)
+
 
 # OUTPUT:9(a):
+![Screenshot 2023-12-26 133145](https://github.com/23008112/ODD23-24-WT-JavaScript/assets/138972470/a7b8f800-9054-403c-ac53-b7341fcf9fad)
 
 
 # Ex-09(b)
